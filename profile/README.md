@@ -1,4 +1,4 @@
 ## Hi there 👋
 <p align="center">
-<img src="https://raw.githubusercontent.com/eprjkt/.github/profile/banner.png" />
+<img src="https://github.com/eprjkt/.github/blob/main/profile/banner.png" />
 </p>
